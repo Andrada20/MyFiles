@@ -1,0 +1,6 @@
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\WebAS.csproj.CoreCompileInputs.cache
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\WebAS.RazorAssemblyInfo.cache
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\WebAS.RazorAssemblyInfo.cs
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\WebAS.AssemblyInfoInputs.cache
+C:\Users\Andrada\Desktop\WebAS-App\WebAS-App\obj\Debug\netcoreapp2.1\WebAS.AssemblyInfo.cs
